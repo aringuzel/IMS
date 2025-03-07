@@ -253,6 +253,6 @@ def main():
         else:
             print("\nPlease select an appropiate option")
 
-print("Welcome to your new IMS")
+print("Welcome to IMS")
 startup_screen()
 main()
